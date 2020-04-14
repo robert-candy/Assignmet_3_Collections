@@ -1,1 +1,4 @@
 Bu bizim Github da olşturduğumuz ikinci dosyadır ve uzantısı txt.dir
+
+
+Şu anda yazdığım metni local bilgisayarda vs code üzerinde yazıyorum.
